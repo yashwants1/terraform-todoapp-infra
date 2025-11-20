@@ -10,6 +10,7 @@ terraform {
     storage_account_name = "ymystorage8745"
     container_name       = "tfstate"
     key                  = "dev.micro.tfstate"
+    subscription_id = "5ed71b72-e131-4c8d-8029-6d14191c6dfe"
   }
 }
 
